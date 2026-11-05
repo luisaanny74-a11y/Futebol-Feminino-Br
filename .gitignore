@@ -1,0 +1,17 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+
+# Python / backend
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+backend/*.db
+backend/.env
